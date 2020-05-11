@@ -533,7 +533,7 @@ ggplot(mtcars, aes(x = mpg, y = disp)) +
 ::::{.grid-page .six-content-high}
 
 :::{.title .test}
-Six content (wide)
+Six content (high)
 :::
 
 :::{.maintext .test}
@@ -590,3 +590,54 @@ ggplot(mtcars, aes(x = mpg, y = disp)) +
 
 ::::
 
+::::{.grid-page .ten-content-wide}
+
+:::{.title-full-span .test}
+Ten content (wide)
+:::
+
+:::{.maintext .test}
+Main text
+:::
+
+:::{.content1 .test}
+Test
+:::
+
+:::{.content2 .test}
+Test
+:::
+
+:::{.content3 .test}
+Test
+:::
+
+:::{.content4 .test}
+Test
+:::
+
+:::{.content5 .test}
+Test
+:::
+
+:::{.content6 .test}
+Test
+:::
+
+:::{.content7 .test}
+Test
+:::
+
+:::{.content8 .test}
+Test
+:::
+
+:::{.content9 .test}
+Test
+:::
+
+:::{.content10 .test}
+Test
+:::
+
+::::
